@@ -1,7 +1,6 @@
 # Create by:
 tranpnhi
-
-Lê Phụng Các
+Phụng Các
 
 # Usage
 User set time and a reminder of an event. When it's time, the reminder will be spoken out loudly by AI voice.
